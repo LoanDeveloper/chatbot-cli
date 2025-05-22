@@ -1,0 +1,36 @@
+{
+    "poste": "Alternant·e Développeur·se Web – PHP/Symfony",
+    "type_de_contrat": "Alternance",
+    "durée_du_contrat": "12 mois",
+    "localisation": {
+    "ville": "Nantes",
+    "adresse": "40 Rue La Tour d'Auvergne, 44200 Nantes, France",
+    "pays": "France",
+    "code_postal": "44200"
+    },
+    "entreprise": {
+    "nom": "Edflex",
+    "secteur": "Tech / Éducation",
+    "site": "https://www.edflex.com"
+    },
+    "description": "Edflex recrute un(e) alternant·e développeur·se Web en PHP/Symfony pour rejoindre son équipe tech à Nantes. L'objectif est de contribuer au développement de la plateforme d'apprentissage Edflex.",
+    "missions": [
+    "Participer au développement de nouvelles fonctionnalités backend en Symfony",
+    "Maintenir et améliorer les fonctionnalités existantes",
+    "Collaborer avec les équipes produit et design",
+    "Écrire des tests automatisés",
+    "Assurer la qualité et la performance du code"
+    ],
+    "compétences_requises": [
+    "Connaissance de PHP",
+    "Connaissance de Symfony",
+    "Notions de Git, SQL",
+    "Curiosité et autonomie"
+    ],
+    "profil_recherché": "Étudiant·e en informatique en Bac+3/4/5. Autonome, curieux·se, rigoureux·se, aimant travailler en équipe.",
+    "date_de_début": "Septembre 2025",
+    "télétravail": "Partiel",
+    "niveau_détude": "Bac+3 à Bac+5",
+    "lien_de_candidature": "https://www.welcometothejungle.com/fr/companies/edflex/jobs/alternant-e-developpeur-se-web-php-symfony_nantes",
+    "illustration": "https://cdn-images.welcometothejungle.com/CLgBrjr0z3KqaLaF5pvXhrCCflY_vaPEytY1xxuM7BE/rs:auto:1200:627:/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTA4MDM1ZmZjLTk4YWMtNGI0YS05MzllLWE4YTZmZTE4YWNlYy5qcGc"
+}
