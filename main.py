@@ -11,6 +11,10 @@ from modes.load_haiku_mode import LoadHaikuMode
 from modes.ask_mode import AskMode
 from modes.cv_mode import CVMode
 from modes.load_cv_mode import LoadCVMode
+from modes.load_cv_mode_v2 import LoadCVModeV2
+from modes.cv_mode_v2 import CVModeV2
+
+
 
 load_dotenv()
 
@@ -38,5 +42,8 @@ if __name__ == "__main__":
     app.use("book", BookMode)
     app.use("cv", CVMode)
     app.use("load-cv", LoadCVMode)
+    app.use("cv2", CVModeV2)
+    app.use("load-cv2", LoadCVModeV2)
+
 
     app.run()

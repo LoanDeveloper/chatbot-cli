@@ -22,7 +22,6 @@ class LoadCVMode(Mode):
     @staticmethod
     def add_subparser(name: str, subparser: _SubParsersAction):
         load_cv_subparser = subparser.add_parser(name)
-        load_cv_subparser.add_argument("cv", type=str, help="The cv to load")
         load_cv_subparser.add_argument("--verbose", "-v", action="store_true", help="Verbose mode")
 
     def run(self):

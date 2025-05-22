@@ -1,0 +1,200 @@
+1. Peux-tu expliquer la différence entre HTML et XHTML ?
+2. Qu’est-ce que la sémantique HTML et pourquoi est-elle importante ?
+3. Comment utilises-tu les balises `<section>`, `<article>` et `<div>` ?
+4. Quelles sont les principales nouveautés de HTML5 ?
+5. Comment gères-tu le responsive design ?
+6. Quelle différence entre `em` et `rem` en CSS ?
+7. Explique le modèle de boîte CSS (box model).
+8. Comment centres-tu un élément horizontalement et verticalement en CSS ?
+9. Qu’est-ce qu’un CSS reset ou normalize ?
+10. Comment fonctionnent les media queries ?
+11. Peux-tu citer des préprocesseurs CSS et leurs avantages ?
+12. Qu’est-ce que Flexbox et quand l’utiliser ?
+13. Explique le fonctionnement de CSS Grid.
+14. Comment fais-tu pour organiser un projet CSS à grande échelle ?
+15. Quelle est la différence entre `position: relative` et `position: absolute` ?
+16. Comment gères-tu l’héritage de styles en CSS ?
+17. Qu’est-ce qu’une pseudo-classe et une pseudo-élément ?
+18. Comment optimises-tu les performances CSS ?
+19. Explique le concept de CSS critical path.
+20. Qu’est-ce que le lazy loading en CSS/HTML ?
+21. Comment gères-tu les polices web ?
+22. Qu’est-ce que le Cross-Origin Resource Sharing (CORS) ?
+23. Explique le fonctionnement des cookies et du localStorage.
+24. Comment fais-tu pour sécuriser les formulaires web ?
+25. Quelles sont les meilleures pratiques pour l’accessibilité (a11y) ?
+26. Qu’est-ce que l’ARIA et comment l’utilises-tu ?
+27. Comment testes-tu l’accessibilité d’une page ?
+28. Qu’est-ce qu’un Web Component ?
+29. Quelle est la différence entre React, Angular et Vue ?
+30. Pourquoi choisir React pour un projet web ?
+31. Explique le Virtual DOM.
+32. Qu’est-ce qu’un Hook en React ?
+33. Peux-tu citer cinq Hooks natifs de React et leur usage ?
+34. Comment gères-tu l’état global dans une application React ?
+35. Qu’est-ce que Redux et quand l’utiliser ?
+36. Explique le Context API de React.
+37. Comment optimises-tu les performances d’un composant React ?
+38. Qu’est-ce que le code splitting ?
+39. Comment mets-tu en place le Server-Side Rendering (SSR) ?
+40. Qu’est-ce que le Static Site Generation (SSG) ?
+41. Peux-tu expliquer Next.js ?
+42. Qu’est-ce que Nuxt.js ?
+43. Explique la différence entre Single Page Application (SPA) et Multi Page Application (MPA).
+44. Qu’est-ce qu’un Progressive Web App (PWA) ?
+45. Comment mets-tu en place un service worker ?
+46. Qu’est-ce que la pré-rendering ?
+47. Comment gères-tu la mise en cache HTTP ?
+48. Qu’est-ce que le Content Delivery Network (CDN) ?
+49. Explique le HTTPS et SSL/TLS.
+50. Comment obtiens-tu un certificat SSL gratuit ?
+51. Qu’est-ce qu’une API REST ?
+52. Qu’est-ce que GraphQL ?
+53. Avantages et inconvénients de GraphQL vs REST.
+54. Comment structures-tu les endpoints REST ?
+55. Qu’est-ce que JSON Web Token (JWT) ?
+56. Comment implémentes-tu l’authentification JWT ?
+57. Qu’est-ce que OAuth2 ?
+58. Peux-tu expliquer le flux OAuth2 “authorization code” ?
+59. Comment protèges-tu une API contre les attaques CSRF ?
+60. Qu’est-ce que XSS et comment t’en prémunir ?
+61. Explique les attaques SQL Injection.
+62. Comment sécurises-tu les requêtes vers la base de données ?
+63. Qu’est-ce que HTTPS Strict Transport Security (HSTS) ?
+64. Comment gères-tu les erreurs côté client et serveur ?
+65. Qu’est-ce que le Caching HTTP ?
+66. Comment utilises-tu ETags ?
+67. Qu’est-ce que le service REST idempotent ?
+68. Comment optimises-tu les requêtes SQL ?
+69. Qu’est-ce qu’une base de données NoSQL ?
+70. Différence entre MongoDB et PostgreSQL.
+71. Comment modélises-tu des relations Many-to-Many ?
+72. Qu’est-ce que l’ORM et ses avantages ?
+73. Peux-tu citer un ORM pour Node.js ?
+74. Comment gères-tu les migrations de schéma ?
+75. Qu’est-ce que Docker ?
+76. Pourquoi containeriser une application web ?
+77. Qu’est-ce qu’un Dockerfile ?
+78. Comment utilises-tu Docker Compose ?
+79. Qu’est-ce que Kubernetes ?
+80. Différence entre déploiement et StatefulSet.
+81. Comment gères-tu le scaling horizontal ?
+82. Qu’est-ce que CI/CD ?
+83. Peux-tu citer un outil CI/CD ?
+84. Comment écris-tu des tests unitaires pour du JavaScript ?
+85. Qu’est-ce que Jest ?
+86. Qu’est-ce que Mocha et Chai ?
+87. Comment testes-tu une API REST ?
+88. Qu’est-ce que Postman/Newman ?
+89. Qu’est-ce que Cypress ?
+90. Comment fais-tu du test end-to-end ?
+91. Qu’est-ce que le TDD ?
+92. Qu’est-ce que le BDD ?
+93. Qu’est-ce que l’intégration continue ?
+94. Qu’est-ce que le déploiement continu ?
+95. Comment mets-tu en place un pipeline GitHub Actions ?
+96. Qu’est-ce qu’AWS Lambda ?
+97. Qu’est-ce que Azure Functions ?
+98. Qu’est-ce que Google Cloud Functions ?
+99. Quand utiliser les fonctions serverless ?
+100. Qu’est-ce qu’un load balancer ?
+101. Comment gères-tu la haute disponibilité ?
+102. Qu’est-ce qu’une architecture micro-services ?
+103. Avantages et inconvénients des monolithes.
+104. Qu’est-ce que l’Event-Driven Architecture ?
+105. Comment implémentes-tu le pattern Pub/Sub ?
+106. Qu’est-ce que Kafka ?
+107. Comment utilises-tu Redis ?
+108. Qu’est-ce que Memcached ?
+109. Qu’est-ce que Elasticsearch ?
+110. Comment recherches-tu du texte full-text ?
+111. Qu’est-ce que WebSocket ?
+112. Quand utiliser Socket.IO ?
+113. Comment implémentes-tu un chat en temps réel ?
+114. Qu’est-ce que Server-Sent Events (SSE) ?
+115. Différence entre WebSocket et SSE.
+116. Comment gères-tu les fichiers statiques ?
+117. Qu’est-ce qu’un reverse proxy ?
+118. Peux-tu expliquer Nginx ?
+119. Peux-tu expliquer Apache ?
+120. Comment fais-tu du load testing ?
+121. Qu’est-ce que JMeter ?
+122. Qu’est-ce que Locust ?
+123. Comment mesures-tu la performance web ?
+124. Qu’est-ce que Lighthouse ?
+125. Comment optimises-tu le First Contentful Paint ?
+126. Comment optimises-tu le Time to Interactive ?
+127. Qu’est-ce que le Critical Rendering Path ?
+128. Comment reduis-tu la taille des bundles JavaScript ?
+129. Qu’est-ce que tree shaking ?
+130. Qu’est-ce que minification et uglification ?
+131. Comment mets-tu en place un bundler ?
+132. Qu’est-ce que Rollup ?
+133. Qu’est-ce que Parcel ?
+134. Qu’est-ce que Vite ?
+135. Comment configures-tu Babel ?
+136. Qu’est-ce que TypeScript ?
+137. Avantages de TypeScript vs JavaScript.
+138. Comment utilises-tu les types génériques ?
+139. Qu’est-ce que l’interface en TypeScript ?
+140. Comment gères-tu les modules ES ?
+141. Qu’est-ce que CommonJS ?
+142. Différence entre import/require.
+143. Qu’est-ce que la programmation fonctionnelle ?
+144. Qu’est-ce que la programmation orientée objet en JS ?
+145. Comment gères-tu les callbacks et Promises ?
+146. Qu’est-ce que async/await ?
+147. Qu’est-ce que le curseur d'événements (Event Loop) ?
+148. Comment gères-tu le multithreading en Node.js ?
+149. Qu’est-ce que le cluster module ?
+150. Comment surveilles-tu une application Node.js en production ?
+151. Qu’est-ce que PM2 ?
+152. Comment fais-tu du logging efficace ?
+153. Qu’est-ce que ELK stack ?
+154. Qu’est-ce que Grafana ?
+155. Comment alertes-tu sur les erreurs en production ?
+156. Qu’est-ce que Sentry ?
+157. Qu’est-ce que New Relic ?
+158. Peux-tu expliquer l’architecture MVC ?
+159. Qu’est-ce que RESTful routing ?
+160. Comment documentes-tu une API ?
+161. Qu’est-ce que Swagger/OpenAPI ?
+162. Qu’est-ce que PostgREST ?
+163. Comment versionnes-tu une API ?
+164. Qu’est-ce que HATEOAS ?
+165. Comment gères-tu les dépréciations d’API ?
+166. Qu’est-ce que Graphene (GraphQL) ?
+167. Comment sécurises-tu GraphQL ?
+168. Peux-tu expliquer les directives GraphQL ?
+169. Qu’est-ce que Apollo Client ?
+170. Qu’est-ce qu’Apollo Server ?
+171. Comment gères-tu le caching GraphQL ?
+172. Qu’est-ce que Relay ?
+173. Qu’est-ce que Hasura ?
+174. Qu’est-ce qu’ORM Prisma ?
+175. Comment utilises-tu TypeORM ?
+176. Qu’est-ce que Sequelize ?
+177. Comment testes-tu les migrations ?
+178. Qu’est-ce que Flyway ?
+179. Qu’est-ce que Liquibase ?
+180. Comment gères-tu les seeds de base de données ?
+181. Qu’est-ce que Docker Swarm ?
+182. Différence Docker Swarm vs Kubernetes.
+183. Comment gères-tu les secrets dans Kubernetes ?
+184. Qu’est-ce que Helm ?
+185. Qu’est-ce que Istio ?
+186. Qu’est-ce que Linkerd ?
+187. Comment mets-tu en place un service mesh ?
+188. Qu’est-ce que Envoy Proxy ?
+189. Comment fais-tu du tracing distribué ?
+190. Qu’est-ce que Jaeger ?
+191. Qu’est-ce que Zipkin ?
+192. Comment optimises-tu une application Node.js ?
+193. Comment gères-tu la mémoire en JS ?
+194. Qu’est-ce que le garbage collector en V8 ?
+195. Comment profilles-tu une application front-end ?
+196. Qu’est-ce que Chrome DevTools Performance tab ?
+197. Comment optimises-tu le bundle CSS ?
+198. Comment utilises-tu un style guide ou Design System ?
+199. Qu’est-ce que Storybook ?
+200. Comment collaborer avec les designers sur un projet web ?
